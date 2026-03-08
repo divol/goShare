@@ -1,11 +1,11 @@
 ## Petit journal au fil de l'IA
 2026-03-08
 
-madelénes de Proust indispensables:
-- https://en.wikipedia.org/wiki/Knowledge_Navigator (voir la vidéo)
-- À la recherche de l'intelligence artificielle - 5 février 1999 de Daniel Crevier (j'aimerai une mise à jour)
-- Jaillissement de l'esprit - Seymour Papert (Ordinateur et Apprentissage, usage du langage logo et sa tortue dans l'enseignement)
-- L'ordinateur et le cerveau (John von Neumann)
+Madeleines de Proust indispensables:
+- https://en.wikipedia.org/wiki/Knowledge_Navigator (voir la vidéo),
+- À la recherche de l'intelligence artificielle - 5 février 1999 de Daniel Crevier (j'aimerai une mise à jour),
+- Jaillissement de l'esprit - Seymour Papert (Ordinateur et Apprentissage, usage du langage logo et sa tortue dans l'enseignement),
+- L'ordinateur et le cerveau (John von Neumann),
 - ...
 
 Alors que les divers modèles ronronnaient dans les labos et la R&D des GAFAM quelques statups , Sam Altman d’OpenAI a lancé la course à l’échalote où tous les coups sont permis.
@@ -26,9 +26,9 @@ résultat : bof, Pour Thay j’ai des histoires d’esclavage, et d’arènes de
 ### Init : 
 pour faire quelque chose, fabriquer un truc, j’ai besoin d’une conjonction entre : 
 
-- énergie : hypothyroïdie mon amour, ma haine
-- temps :  voir énergie
-- idées : voir temps
+- énergie : hypothyroïdie mon amour, ma haine,
+- temps :  voir énergie,
+- idées : voir temps,
 - et argent : quand je m’intéresse à un sujet je me documente beaucoup (trop?), j’ai 5 grammaires d’égyptien, quand ce n’est pas un télescope motorisé correct (45 ans d’attente) ou imprimantes 3D, sans parler de l’informatique .. mais pour une fois ça n’a pas été bloquant.
 
 ### Règles du premier round : 
@@ -125,8 +125,9 @@ et l'hivers, moment critique où les investisseurs se posent des questions, hive
 
 
 Si j'étais optimiste:
-- des gros tuyaux internet, des ordinateurs perso toujours sous exploités, des imprimantes 3D, CNC,.. avec l'IA y a quelque chose d'intéressant qui peut naitre de cette conjonction
-- si l'IA arrive à être un composant disponible type Text2speach sur un ordinateur, il aura beaucoup d'intérêt pour les personnes avec un handicape.
+- des gros tuyaux internet, des ordinateurs perso toujours sous exploités, des imprimantes 3D, CNC,.. avec l'IA y a quelque chose d'intéressant qui peut naitre de cette conjonction,
+- si l'IA arrive à être un composant disponible type Text2speach sur un ordinateur, il très utile pour les personnes avec un handicap,
+- et de manière générale, les experts d'un domaine seront privilégiés, capables d'exprimer correctement leur demande,
 -  Une architecture de composants de type opendoc/appleevents (pas le truc pourri des années 2000 les webservices,  les appleevents avait des un dictionnaire métadonnées disponible) où les IAs peuvent piocher des infos, compétences...
 
 
