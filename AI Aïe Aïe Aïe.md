@@ -73,7 +73,7 @@ le prompt pour un logiciel d’ingénierie logiciel et j’ai accès à l’orga
 Très bien, ça permet de vérifier s’il fait bien ce qu’on lui demande (réponse : non, il est très approximatif, et je suis gentil) .
 
 Une architecture en couche, plus adapté aux LLM, 
-
+```
 ┌─────────────────────────────────────┐
 │          Clients (LLM, UI)          │
 ├─────────────────────────────────────┤
@@ -89,6 +89,7 @@ Une architecture en couche, plus adapté aux LLM,
 ├─────────────────────────────────────┤
 │     Stockage (JSON, SQLight,pgSQL)  │
 └─────────────────────────────────────┘
+```
 
 Un serveur faceless  pour l’accès aux données (une archi en plugin), un autre pour l’interface (typescript), interface sobre, une seule page, tout accessible et visible.
 
