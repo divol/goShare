@@ -81,7 +81,7 @@ Mais il délire, il fait les choses en surface, malgré les tests, mais finallem
 Il y a un progrès . Et il m’a fait un conteneur Docker et les makefile
 A chaque PR il rebuild tout, en asynchrone ça va.
 
-### Round 2,5 :
+### Round 2.5 :
 l’interface … typescript …. javascript ? 
 
 aïe aïe aië, retour des galères malgré un lint systématique (pas sexy) , et vogue la galère, mais !a se met en place, ddddooooouuuucement.
@@ -102,10 +102,12 @@ l’organisation en issue/PR permet de faire
 
 Ce second test est bien plus satisfaisant, nom de code  : goagl (un nom de gargarisme, je pense)
 
-### conclusions : 
-Ma conclusion est partial et parcielle, mais comme les modèles sortent vitent, je ne vais pas papilloner en fonction du vent et des affirmations des bonnimenteurs.
+total pour ce projet à ce jour : 70 issues et 70 PR dont 35 pour corriger les betises (50% donc)
 
-**Free to play BUT Pay to win**
+### conclusions : 
+Ma conclusion est partial et partielle, mais comme les modèles sortent vite, je ne vais pas papilloner en fonction du vent et des affirmations des bonnimenteurs.
+
+**Free to play BUT Pay to win** même si avec un budget "raisonnable", j'y suis arriver, mais c'est mon métier de fabriquer des logiciels.
 
 Ce sont des modèles de language, plus ou moins gras, plus ou moins pimpés, ils ne vont rien créer. juste imiter, moyénner.
 
