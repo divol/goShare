@@ -5,7 +5,7 @@ Dans ce « Petit journal au fil de l’IA », je raconte ce que donnent vraiment
 
 le texte : [https://github.com/divol/goShare/AI\ Aïe Aïe Aïe.md](https://github.com/divol/goShare/blob/main/AI%20Aïe%20Aïe%20Aïe.md)
 
-Premier projet : [go5e](http://jdivol.duckdns.org:9999)
-Second projet : [goagl](http://jdivol.duckdns.org:9999)
+- Premier projet : [go5e](http://jdivol.duckdns.org:9999)
+- Second projet : [goagl](http://jdivol.duckdns.org:9999)
 
 
