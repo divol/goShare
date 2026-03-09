@@ -91,7 +91,7 @@ Une architecture en couche, plus adapté aux LLM,
 └─────────────────────────────────────┘
 ```
 
-Un serveur faceless  pour l’accès aux données (une archi en plugin), un autre pour l’interface (typescript), interface sobre, une seule page, tout accessible et visible.
+Un serveur faceless  pour l’accès aux données (une archi en plugin), un autre pour l’interface (typescript), interface sobre, jusqu'& 5 utilisateurs sur un diagramme, une seule page, tout accessible et visible (pas d'actions cachée, sauf bouton admin).
 
 Le serveur faceless se déploie en 3 jours, et me mange 40% de mon quota, oups, je ne m’y attendais pas à ce coup bas…. 
 
