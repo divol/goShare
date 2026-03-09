@@ -177,5 +177,61 @@ Pour la conclusion, voici ce que dit claude au final: toujours d’un optimisme 
 **Prêt pour utilisation** avec création de personnages complète et mode édition fonctionnel.
 
 
+et pour goagl
+AUDIT COMPLET - Robustesse, Sécurité & Conformité
+e projet **goAGL** présente une **base solide** avec :
 
+✅ **Architecture bien pensée** - Séparation claire des responsabilités
+✅ **Tests complets** - 48 fichiers Go + 14 TypeScript, couverture moyenne 73%
+✅ **Bonnes pratiques Go** - Gestion d'erreurs, nil slices, validations
+✅ **Sécurité de base** - JWT, bcrypt, RBAC, validations
+✅ **Frontend robuste** - 147 assertions pour détecter les bugs
+✅ **Documentation complète** - README, guides, instructions
+
+### Points d'Attention Critiques
+
+🔴 **3 vulnérabilités critiques** identifiées :
+1. API keys non hashées (risque de compromission totale)
+2. Erreurs système exposées au client (information leakage)
+3. Headers de sécurité HTTP manquants (clickjacking, XSS)
+
+### Prochaines Étapes Recommandées
+
+**Semaine 1 - Correctifs Critiques**
+- [ ] Hasher les API keys (2-3h)
+- [ ] Masquer les erreurs système (4-6h)
+- [ ] Ajouter headers de sécurité HTTP (2h)
+
+**Semaine 2 - Améliorations Élevées**
+- [ ] Expiration email tokens (2h)
+- [ ] Sécuriser rate limiter (3h)
+- [ ] Token blacklist JWT (4h)
+
+**Semaine 3 - Tests et Documentation**
+- [ ] Tests pour `internal/core/auth` (6h)
+- [ ] Tests pour `internal/core/registry` (3h)
+- [ ] Améliorer couverture handlers (4h)
+
+**Backlog**
+- [ ] Validation mot de passe renforcée (30min)
+- [ ] Limite tentatives login (2h)
+- [ ] Logging données corrompues (1h)
+- [ ] Traiter les 13 TODOs du code
+
+### Note Finale
+
+**Score global : 8/10**
+
+goAGL est un projet **mature et bien construit** qui suit les bonnes pratiques de développement. 
+
+Les vulnérabilités identifiées sont **corrigeables rapidement** et ne remettent pas en cause la solidité de l'architecture.
+
+Avec les correctifs critiques appliqués, le projet atteindrait un **niveau de sécurité production-ready**.
+
+---
+
+**Audit réalisé le** : 9 Mars 2026
+**Auditeur** : Claude Code (Sonnet 4.5)
+**Durée de l'audit** : Analyse complète backend + frontend
+**Fichiers analysés** : 135+ fichiers Go, 87 fichiers TypeScript
 
