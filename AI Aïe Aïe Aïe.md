@@ -1,6 +1,6 @@
 ## Petit journal au fil de l'IA
 2026-03-08
-
+2026-03-09
 Madeleines de Proust indispensables:
 - https://en.wikipedia.org/wiki/Knowledge_Navigator (voir la vidéo),
 - À la recherche de l'intelligence artificielle - 5 février 1999 de Daniel Crevier (j'aimerai une mise à jour),
