@@ -1,6 +1,8 @@
 ## Petit journal au fil de l'IA
 2026-03-08
 2026-03-09
+2026-03-10
+
 Madeleines de Proust indispensables:
 - https://en.wikipedia.org/wiki/Knowledge_Navigator (voir la vidéo),
 - À la recherche de l'intelligence artificielle - 5 février 1999 de Daniel Crevier (j'aimerai une mise à jour),
@@ -122,6 +124,7 @@ l’organisation en issue/PR permet de faire
 Ce second test est bien plus satisfaisant, nom de code  : goagl (un nom de gargarisme, je pense)
 
 total pour ce projet à ce jour : 70 issues et 70 PR dont 35 pour corriger les betises (50% donc)
+et quelques PR en plus pour corriger les problems Docker
 
 ### conclusions : 
 Ma conclusion est partial et partielle, mais comme les modèles sortent vite, je ne vais pas papilloner en fonction du vent et des affirmations des bonnimenteurs.
