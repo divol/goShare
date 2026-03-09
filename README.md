@@ -5,7 +5,13 @@ Dans ce « Petit journal au fil de l’IA », je raconte ce que donnent vraiment
 
 le texte : [https://github.com/divol/goShare/AI\ Aïe Aïe Aïe.md](https://github.com/divol/goShare/blob/main/AI%20Aïe%20Aïe%20Aïe.md)
 
+
+Les deux projets sont sur un zima2 sous zimaos (fork de casaOS)
+
 - Premier projet : [go5e](http://jdivol.duckdns.org:9999)
-- Second projet : [goagl](http://jdivol.duckdns.org:9999)
+- 
+- Second projet en conteneur Docker: [goagl](http://jdivol.duckdns.org:3000)
+- code pour créer un compte : 9fa746db01acb5d1
+- sinon  admin AdminPass!2026
 
 
