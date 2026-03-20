@@ -7,14 +7,19 @@ le texte continue par là : [https://github.com/divol/goShare/AI\ Aïe Aïe Aïe
 
 
 Les deux projets sont sur un zima2 sous zimaos (fork de casaOS)
+
+-ils peuvent être hors ligne
+
 ### Projet go5e
 - Premier projet : [go5e](http://jdivol.duckdns.org:9999)
 -  et admin admin123   pour se connecter
 
-### Projet goagl
+### Projet goagl  -- HORS LIGNE -- 
 - Second projet en conteneur Docker: [goagl](http://jdivol.duckdns.org:3000)
 - code pour créer un compte : 9fa746db01acb5d1
 - sinon  admin AdminPass!2026   pour se connecter
+
+-- la suite --
 
 ### Projet goArchFile
 
